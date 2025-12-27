@@ -1,0 +1,7 @@
+apiversion: v1
+kind: namespace
+metadata:
+  name: namespace
+  labels:
+    project: expense
+    env: dev
